@@ -1,1 +1,1 @@
-# mojonetID
+# mojonetID authentication provider
